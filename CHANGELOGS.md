@@ -1,6 +1,7 @@
 2020/09/16
 
 BOT UPDATED NOTES V1.0:
+
 Features:
 - Chatbot
 - Mini games
