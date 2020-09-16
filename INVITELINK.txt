@@ -1,0 +1,3 @@
+Use this to invite our bot:
+
+https://discord.com/oauth2/authorize?client_id=752026461736665152&permissions=2147483639&scope=bot
